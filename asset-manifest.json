@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/myspace/static/css/main.3962265b.chunk.css",
+    "main.js": "/myspace/static/js/main.85bf759b.chunk.js",
+    "main.js.map": "/myspace/static/js/main.85bf759b.chunk.js.map",
+    "runtime-main.js": "/myspace/static/js/runtime-main.24e39c21.js",
+    "runtime-main.js.map": "/myspace/static/js/runtime-main.24e39c21.js.map",
+    "static/js/2.69199faf.chunk.js": "/myspace/static/js/2.69199faf.chunk.js",
+    "static/js/2.69199faf.chunk.js.map": "/myspace/static/js/2.69199faf.chunk.js.map",
+    "static/js/3.5ef5b093.chunk.js": "/myspace/static/js/3.5ef5b093.chunk.js",
+    "static/js/3.5ef5b093.chunk.js.map": "/myspace/static/js/3.5ef5b093.chunk.js.map",
+    "static/js/4.01ea43ca.chunk.js": "/myspace/static/js/4.01ea43ca.chunk.js",
+    "static/js/4.01ea43ca.chunk.js.map": "/myspace/static/js/4.01ea43ca.chunk.js.map",
+    "static/js/5.50d8b026.chunk.js": "/myspace/static/js/5.50d8b026.chunk.js",
+    "static/js/5.50d8b026.chunk.js.map": "/myspace/static/js/5.50d8b026.chunk.js.map",
+    "static/js/6.a6c7a46d.chunk.js": "/myspace/static/js/6.a6c7a46d.chunk.js",
+    "static/js/6.a6c7a46d.chunk.js.map": "/myspace/static/js/6.a6c7a46d.chunk.js.map",
+    "static/js/7.51084253.chunk.js": "/myspace/static/js/7.51084253.chunk.js",
+    "static/js/7.51084253.chunk.js.map": "/myspace/static/js/7.51084253.chunk.js.map",
+    "static/js/8.2816dcc3.chunk.js": "/myspace/static/js/8.2816dcc3.chunk.js",
+    "static/js/8.2816dcc3.chunk.js.map": "/myspace/static/js/8.2816dcc3.chunk.js.map",
+    "static/js/9.51d93ffe.chunk.js": "/myspace/static/js/9.51d93ffe.chunk.js",
+    "static/js/9.51d93ffe.chunk.js.map": "/myspace/static/js/9.51d93ffe.chunk.js.map",
+    "static/js/10.d3d7b327.chunk.js": "/myspace/static/js/10.d3d7b327.chunk.js",
+    "static/js/10.d3d7b327.chunk.js.map": "/myspace/static/js/10.d3d7b327.chunk.js.map",
+    "static/js/11.070a846e.chunk.js": "/myspace/static/js/11.070a846e.chunk.js",
+    "static/js/11.070a846e.chunk.js.map": "/myspace/static/js/11.070a846e.chunk.js.map",
+    "index.html": "/myspace/index.html",
+    "static/css/main.3962265b.chunk.css.map": "/myspace/static/css/main.3962265b.chunk.css.map",
+    "static/js/2.69199faf.chunk.js.LICENSE.txt": "/myspace/static/js/2.69199faf.chunk.js.LICENSE.txt",
+    "static/js/3.5ef5b093.chunk.js.LICENSE.txt": "/myspace/static/js/3.5ef5b093.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24e39c21.js",
+    "static/js/3.5ef5b093.chunk.js",
+    "static/css/main.3962265b.chunk.css",
+    "static/js/main.85bf759b.chunk.js"
+  ]
+}
